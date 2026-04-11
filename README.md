@@ -17,6 +17,6 @@ built in Python.
 - Quantified inventory inefficiencies previously managed by guesswork
 - Produced actionable staffing and stocking recommendations backed by data
 
-## Tools Used
+ ## Tools Used
 - Python — pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook
